@@ -1,0 +1,12 @@
+complexity:
+  active: true
+  TooManyFunctions:
+    active: true
+    thresholdInFiles: 15
+    thresholdInClasses: 15
+    thresholdInInterfaces: 15
+    thresholdInObjects: 15
+    thresholdInEnums: 11
+    ignoreDeprecated: true
+    ignorePrivate: false
+    ignoreOverridden: true
